@@ -387,7 +387,7 @@ auto-removal:
     - CAVE_SPIDER !hasName
     - CHICKEN !hasName
     - COD !hasName
-    - CREAKING !hasName
+    - COW !hasName
     - CREAKING !hasName
     - CREEPER !hasName
     - DOLPHIN !hasName
@@ -501,8 +501,8 @@ command-remove:
     - CAVE_SPIDER !hasName
     - CHICKEN !hasName
     - COD !hasName
-    - CREAKING !hasName
-    - CREAKING !hasName
+    - COW !hasName
+    
     - CREEPER !hasName
     - DOLPHIN !hasName
     - DONKEY !hasName
